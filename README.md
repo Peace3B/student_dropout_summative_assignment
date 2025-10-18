@@ -10,9 +10,13 @@ This project aims to analyze and predict student dropout likelihood based on aca
 
 student_dropout_summative_assignment/
 │
+
 ├── student_dropout.ipynb       # Main notebook containing data preprocessing, EDA, and modeling
+
 ├── data/                       # Dataset files (if applicable)
+
 ├── images/                     # Visualization outputs (e.g., correlation heatmap, ROC curve)
+
 └── README.md                   # Project documentation
 
 
