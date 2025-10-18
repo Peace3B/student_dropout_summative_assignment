@@ -6,6 +6,8 @@ This project aims to analyze and predict student dropout likelihood based on aca
 
 
 *Repository Structure*
+
+
 student_dropout_summative_assignment/
 │
 ├── student_dropout.ipynb       # Main notebook containing data preprocessing, EDA, and modeling
@@ -26,6 +28,7 @@ Determine the optimal probability threshold for intervention.
 
 
 *Key Findings*
+
 1. Correlation Analysis
 
 The correlation heatmap provides insights into the relationships between student dropout and various attributes.
@@ -70,6 +73,7 @@ scikit-learn – Model training and evaluation
 Clone the repository:
 
 git clone https://github.com/Peace3B/student_dropout_summative_assignment.git
+
 cd student_dropout_summative_assignment
 
 
@@ -84,6 +88,8 @@ jupyter notebook student_dropout.ipynb
 
 
 Run all cells to reproduce the analysis and results.
+
+
 Results Summary
 
 AUC: 0.91
